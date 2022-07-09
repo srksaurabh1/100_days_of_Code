@@ -53,6 +53,8 @@ def random_color():
 # draw_spirograph(5)
 
 
+# Random of dotted painting, spot painting
+import colorbar
 
 
 
